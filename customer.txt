@@ -1,0 +1,4 @@
+ali,temurtaş,26,181,105
+ali,temurtaş,26,181,95
+ali,temurtaş,26,181,90
+ali,temurtaş,26,181,85
